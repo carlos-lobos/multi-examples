@@ -1,0 +1,7 @@
+# Conextion string for mysql db
+
+# db_conn_string = dbhost/dbname/dbuser/dbpass
+# or
+# db_conn_string = dbhost:dbport/dbname/dbuser/dbpass
+
+db_conn_string = localhost/test/root/123456
