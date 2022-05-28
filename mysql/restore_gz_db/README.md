@@ -3,12 +3,12 @@
 Antes de ejecutar `restore_mysql_local_db.sh` debe editarlo para modificar los datos de acceso a la BD
 
 # Local Mysql DB Conection
-MYSQL_HOST='localhost'
-MYSQL_USER='root'
-MYSQL_PASS='xxxx'
+`MYSQL_HOST='localhost'`<br>
+`MYSQL_USER='root'`<br>
+`MYSQL_PASS='xxxx'`<br>
 
 # Name of Test Database
-DB_NAME='test'
+`DB_NAME='test'`
 
 El ejemplo crea una tabla de usuarios con 2 registros:
 
